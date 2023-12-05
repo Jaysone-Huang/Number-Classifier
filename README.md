@@ -15,6 +15,7 @@ Usage:
 The model can be easily trained and evaluated using the provided Python script. Feel free to adapt the architecture, hyperparameters, and data according to your specific requirements.
 
 Dependencies:
+
 TensorFlow: The machine learning library used for building and training the neural network.
 Used Mnist dataset to train model, model inputs 28x28 pixels only, any  larger and it won't operate correctly.
 Used Gradio version 3.50.2 and worked in venv environment.
