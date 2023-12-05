@@ -1,4 +1,4 @@
-# Number-Classifier
+# Number-Classifier AI
 This repository contains a simple neural network implemented using TensorFlow, designed to recognize and predict numerical values. The model is trained on a dataset containing numbers from 1 to 10, and the architecture includes multiple dense layers for effective learning.
 
 Key Features:
